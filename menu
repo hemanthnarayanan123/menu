@@ -1,0 +1,69 @@
+{
+      "orderSubmitEmail": "hemanthnarayanan123@gmail.com",
+      "helpContactNumber": "3147242230",
+      "date": "Sep 30, 2020",
+      "veg": [
+         {
+            "name": "Idly Sambhar",
+            "nameItemDesc": "Idly 4 pcs",
+            "priceQuantityDesc": "$6"
+         },
+         {
+            "name": "Paneer Butter Masala",
+            "nameItemDesc": "12oz",
+            "priceQuantityDesc": "$8"
+         },
+         {
+            "name": "Paneer Butter Masala",
+            "nameItemDesc": "160z",
+            "priceQuantityDesc": "$12"
+         },
+         {
+            "name": "Chappathi with Ghee",
+            "nameItemDesc": "1 pc",
+            "priceQuantityDesc": "$0.60"
+         },
+         {
+            "name": "Bisibelabath",
+            "nameItemDesc": "1 box",
+            "priceQuantityDesc": "$10"
+         },
+         {
+            "name": "Vegetable Biriyani",
+            "nameItemDesc": "1 box",
+            "priceQuantityDesc": "$10"
+         }
+      ],
+      "nonveg": [
+         {
+            "name": "Item 1",
+            "nameItemDesc": "Idly 4 pcs",
+            "priceQuantityDesc": "$6"
+         },
+         {
+            "name": "Item 2",
+            "nameItemDesc": "12oz",
+            "priceQuantityDesc": "$8"
+         },
+         {
+            "name": "Item 3",
+            "nameItemDesc": "160z",
+            "priceQuantityDesc": "$12"
+         },
+         {
+            "name": "Item 4",
+            "nameItemDesc": "1 pc",
+            "priceQuantityDesc": "$0.60"
+         },
+         {
+            "name": "Item 5",
+            "nameItemDesc": "1 box",
+            "priceQuantityDesc": "$10"
+         },
+         {
+            "name": "Item 6",
+            "nameItemDesc": "1 box",
+            "priceQuantityDesc": "$10"
+         }
+      ]
+}
