@@ -1,9 +1,9 @@
 {
-"data": [
-{"One"},
-{"One"},
-{"One"},
-{"One"},
-{"One"}
-]
+   [
+      "One",
+      "Two",
+      "Three",
+      "Four",
+      "Five"
+   ]
 }
